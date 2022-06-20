@@ -1,5 +1,5 @@
 # background-generator
 
-instructions: 
+Instructions: 
 
-click the link under the about sectioin to view the App
+Click the link under the About sectioin to view the App
